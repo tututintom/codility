@@ -144,3 +144,5 @@ function solution(X, A) {
   }
   return position;
 }
+
+// 4.3 ... //
